@@ -1,5 +1,3 @@
-# https-github.com-FernandaBarrosLinhares-exercicioSemanaSeis-DevFullStack
-
 Blog simples com JSONPlaceholder
 Esse projeto faz parte do Floripa Mais Tec.
 
